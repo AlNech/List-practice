@@ -1,0 +1,4 @@
+﻿  List1_Nechunaeva.cpp
+C:\Users\User\Desktop\List1_Nechunaeva\List1_Nechunaeva\List1_Nechunaeva.cpp(54,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\List1_Nechunaeva\List1_Nechunaeva\List1_Nechunaeva.cpp(135,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  List1_Nechunaeva.vcxproj -> C:\Users\User\Desktop\List1_Nechunaeva\Debug\List1_Nechunaeva.exe
